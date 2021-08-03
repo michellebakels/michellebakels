@@ -13,7 +13,7 @@ To learn more about the X-Change, check out [this Racket](https://racket.com/coc
 - BackEnd: (https://github.com/michellebakels/xchange-api)
 
 #### :heart: Coding With...
-<p>Coding With... is a collection of 10 tiny software programs that explore using code as a form of meditation. Born from the [Florida Entrepreneur Club's](https://www.flent.club/) 10x10 writing challenge (and my obsessive need to overachieve) for 10 days straight I built small apps that focused my mind on a specific emotion or human characteristic in order to experiment with using software as a tool for creativity and personal development. Afterwards, I wrote up a gist describing each experience.</p>
+<p>Coding With... is a collection of 10 tiny software programs that explore using code as a form of meditation. Born from the [Florida Entrepreneur Clubs](https://www.flent.club/) 10x10 writing challenge (and my obsessive need to overachieve) for 10 days straight I built small apps that focused my mind on a specific emotion or human characteristic in order to experiment with using software as a tool for creativity and personal development. Afterwards, I wrote up a gist describing each experience.</p>
 
 <p>These little apps are unpolished and breakable, and that's ok :relaxed:. Success was measured by the ability to focus on the intention while coding.</p>
 <p>This might seem a little strange, so if you'd like to understand better check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: (https://www.youtube.com/watch?v=eMDl04DL6Tw)</p>
