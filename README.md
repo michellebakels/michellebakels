@@ -5,7 +5,7 @@ I'm not one for fancy profiles of myself and still view github as a tool more th
 I do a lot of teaching and tutorials for new programmers therefore a lot of what's seen publicly here serves that purpose. Also, nearly everything I've ever built in exchange for USD is in a private repo (:confused:). There are a few repos in here that are near and dear to my heart though so let me `.filter()` them out:
 
 #### :arrows_clockwise: 1909 X-Change
-This app is being developed for the wonderful/amazing/magical members of [1909](https://weare1909.org/) which brings in and brings up South Florida entrepreneurs through accelerators, ideators, and shared community space. A common pain point of early stage start-ups is of course (... drum roll...) **lack of funding!** In order to help relieve this burden, we've created the X-Change, a skills sharing/swapping platform that allows founders to post what they need help with in _exchange_ for helping someone else with their area of expertise.<br>
+This app is being developed for the wonderful/amazing/magical members of [1909](https://weare1909.org/) which brings in and brings up South Florida entrepreneurs through accelerators, ideators, and shared community space. A common pain point of early stage start-ups is of course (...drum roll...) **lack of funding!** In order to help relieve this burden, we've created the X-Change, a skills sharing/swapping platform that allows founders to post what they need help with in _exchange_ for helping someone else with their area of expertise.<br>
 
 To learn more about the X-Change, check out [this Racket](https://racket.com/cococo_soflo/rnae8) recorded by community building expert, Vanessa Calas, and myself for our community growth series, CoCoCo SoFlo.
 
