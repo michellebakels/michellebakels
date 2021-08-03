@@ -2,10 +2,10 @@
 
 I'm not one for fancy profiles of myself and still view github as a tool more than a portfolio, however I understand a few occasional visitors may drop by to see what's going on over here so I'll try and provide some :sparkles: _guidance_ :sparkles: <br>
 
-I do a lot of teaching and tutorials for new programmers therefore a lot of what's seen publicly here serves that purpose. Also, nearly everything I've ever built in exchange for USD is in a private repo (:confused:). There are a few repos in here that are near and dear to my heart though so let me `.filter()` them out:
+A few repos near and dear to my heart:
 
 #### :arrows_clockwise: 1909 X-Change
-This app is being developed for the wonderful/amazing/magical members of [1909](https://weare1909.org/) which brings in and brings up South Florida entrepreneurs through accelerators, ideators, and shared community space. A common pain point of early stage startups is of course (...drum roll...) **lack of funding!** In order to help relieve this burden, we've created the X-Change, a skills sharing/swapping platform that allows founders to post what they need help with in _exchange_ for helping someone else with their area of expertise.<br>
+This app is being developed for the wonderful/amazing/magical members of [1909](https://weare1909.org/). Together we've created the X-Change, a skills sharing/swapping platform that allows founders to post what they need help with in _exchange_ for helping someone else with their area of expertise.<br>
 
 To learn more about the X-Change, check out [this Racket](https://racket.com/cococo_soflo/rnae8) recorded by community building expert, Vanessa Calas, and myself for our community growth series, CoCoCo SoFlo.
 
@@ -13,10 +13,10 @@ To learn more about the X-Change, check out [this Racket](https://racket.com/coc
 - BackEnd: https://github.com/michellebakels/xchange-api
 
 #### :heart: Coding With...
-Coding With... is a collection of tiny software programs that explore using code as a form of meditation. Born from the [Florida Entrepreneur Club's](https://www.flent.club/) 10x10 writing challenge (and my obsessive need to overachieve) for 10 days straight I built small apps that focused my mind on a specific emotion or human characteristic in order to experiment with using software as a tool for creativity and personal development. Afterwards, I wrote up a gist describing each experience.<br>
+Born from the [Florida Entrepreneur Club's](https://www.flent.club/) 10x10 writing challenge, for 10 days straight I built small apps that focused my mind on a specific emotion/characteristic in order to experiment with using code as a form of meditation.<br>
 
 These little apps are unpolished and breakable, and that's ok :relaxed:. Success was measured by the ability to focus on the intention while coding.<br><br>
-This might seem a little strange, so if you'd like to understand better check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: https://www.youtube.com/watch?v=eMDl04DL6Tw
+If you'd like to understand more check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: https://www.youtube.com/watch?v=eMDl04DL6Tw
 
 | Collection                           | :page_facing_up:                                                                                | :iphone:                                                                  | :space_invader:                                                                     |
 |----------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|
