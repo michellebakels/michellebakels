@@ -19,51 +19,51 @@
 <p>This might seem a little strange, so if you'd like to understand better check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: (https://www.youtube.com/watch?v=eMDl04DL6Tw)</p>
 
 ###### :snail: Coding with Intention
-Gist: (https://gist.github.com/michellebakels/c450da00f257bf1a4ee626ebb66ab276)
-Program: (https://codingwithmich.com/)
-Repo: (https://github.com/michellebakels/coding-with)
+Gist: (https://gist.github.com/michellebakels/c450da00f257bf1a4ee626ebb66ab276)<br>
+Program: (https://codingwithmich.com/)<br>
+Repo: (https://github.com/michellebakels/coding-with)<br>
 
 ###### :sunflower: Coding with Joy
-Gist: (https://gist.github.com/michellebakels/139e7e2b8f2825745f920bfaab215ded)
-Program: (https://coding-with-joy.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-joy)
+Gist: (https://gist.github.com/michellebakels/139e7e2b8f2825745f920bfaab215ded)<br>
+Program: (https://coding-with-joy.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-joy)<br>
 
 ###### :key: Coding with Fairness
-Gist: (https://gist.github.com/michellebakels/e042797497e0d26e0e454b8c3aad782c)
-Program: (https://coding-with-fairness.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-fairness)
+Gist: (https://gist.github.com/michellebakels/e042797497e0d26e0e454b8c3aad782c)<br>
+Program: (https://coding-with-fairness.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-fairness)<br>
 
 ###### :cookie: Coding with Thoughtfulness
-Gist: (https://gist.github.com/michellebakels/a1757e98f70cf3937430874c452bc57d)
-Program: (https://coding-with-thoughtfulness.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-thoughtfulness)
+Gist: (https://gist.github.com/michellebakels/a1757e98f70cf3937430874c452bc57d)<br>
+Program: (https://coding-with-thoughtfulness.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-thoughtfulness)<br>
 
 ###### :sparkling_heart: Coding with Kindness
-Gist: (https://gist.github.com/michellebakels/f956b54847fbe8789653378959ca81d6)
-Program: (https://coding-with-kindness.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-kindness)
+Gist: (https://gist.github.com/michellebakels/f956b54847fbe8789653378959ca81d6)<br>
+Program: (https://coding-with-kindness.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-kindness)<br>
 
 ###### :dizzy: Coding with Curiosity
-Gist: (https://gist.github.com/michellebakels/e015cfa0ebfcb637f31064b515ce01ac)
-Program: (It's the 1909 X-Change!)
-Repo: (https://github.com/michellebakels/xchange)
+Gist: (https://gist.github.com/michellebakels/e015cfa0ebfcb637f31064b515ce01ac)<br>
+Program: (It's the 1909 X-Change!)<br>
+Repo: (https://github.com/michellebakels/xchange)<br>
 
 ###### :crown: Coding with Bravery
-Gist: (https://gist.github.com/michellebakels/2b773d357a8875e6ba6fc35fa2458833)
-Program: (https://coding-with-bravery.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-bravery)
+Gist: (https://gist.github.com/michellebakels/2b773d357a8875e6ba6fc35fa2458833)<br>
+Program: (https://coding-with-bravery.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-bravery)<br>
 
 ###### :dancers: Coding with Sisterhood
-Gist: (https://gist.github.com/michellebakels/d216c37421e21c32c592426a86c4b1c1)
-Program: (https://coding-with-sisterhood.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-sisterhood)
+Gist: (https://gist.github.com/michellebakels/d216c37421e21c32c592426a86c4b1c1)<br>
+Program: (https://coding-with-sisterhood.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-sisterhood)<br>
 
 ###### :love_letter: Coding with Love
-Gist: (https://gist.github.com/michellebakels/17356542c2bbd2a5c3889a1092b80b55)
-Program: (https://coding-with-love.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-love)
+Gist: (https://gist.github.com/michellebakels/17356542c2bbd2a5c3889a1092b80b55)<br>
+Program: (https://coding-with-love.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-love)<br>
 
 ###### :pray: Coding with Gratitude
-Gist: (https://gist.github.com/michellebakels/b7f69c678b3ac23bef774a40bcef491c)
-Program: (https://coding-with-gratitude.web.app/)
-Repo: (https://github.com/michellebakels/coding-with-gratitude)
+Gist: (https://gist.github.com/michellebakels/b7f69c678b3ac23bef774a40bcef491c)<br>
+Program: (https://coding-with-gratitude.web.app/)<br>
+Repo: (https://github.com/michellebakels/coding-with-gratitude)<br>
