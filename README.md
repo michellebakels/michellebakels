@@ -18,7 +18,7 @@ Coding With... is a collection of 10 tiny software programs that explore using c
 These little apps are unpolished and breakable, and that's ok :relaxed:. Success was measured by the ability to focus on the intention while coding.<br><br>
 This might seem a little strange, so if you'd like to understand better check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: https://www.youtube.com/watch?v=eMDl04DL6Tw
 
-|                            |                                                                                 |                                                                   |                                                                      |
+| Collection:                           |                                                                                 |                                                                   |                                                                      |
 |----------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|
 | :snail: Coding with Intention      | [Gist](https://gist.github.com/michellebakels/c450da00f257bf1a4ee626ebb66ab276) | [Program](https://codingwithmich.com/)                            | [Repo](https://github.com/michellebakels/coding-with)                |
 | :sunflower: Coding with Joy            | [Gist](https://gist.github.com/michellebakels/139e7e2b8f2825745f920bfaab215ded) | [Program](https://coding-with-joy.web.app/)                       | [Repo](https://github.com/michellebakels/coding-with-joy)            |
