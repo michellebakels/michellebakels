@@ -1,18 +1,4 @@
-### Welcome! 👋
-
-I'm not one for fancy profiles of myself and still view github as a tool more than a portfolio, however I understand a few occasional visitors may drop by to see what's going on over here so I'll try and provide some :sparkles: _guidance_ :sparkles: <br>
-
-A few repos near and dear to my heart:
-
-#### :arrows_clockwise: 1909 X-Change
-This app is being developed for the wonderful/amazing/magical members of [1909](https://weare1909.org/). Together we've created the X-Change, a skills sharing/swapping platform that allows founders to post what they need help with in _exchange_ for helping someone else with their area of expertise.<br>
-
-To learn more about the X-Change, check out [this Racket](https://racket.com/cococo_soflo/rnae8) recorded by community building expert, Vanessa Calas, and myself for our community growth series, CoCoCo SoFlo.
-
-- FrontEnd: https://github.com/michellebakels/xchange
-- BackEnd: https://github.com/michellebakels/xchange-api
-
-#### :heart: Coding With...
+### :heart: Coding With...
 Born from the [Florida Entrepreneur Club's](https://www.flent.club/) 10x10 writing challenge, for 10 days straight I built small apps that focused my mind on a specific emotion/characteristic in order to experiment with using code as a form of meditation.<br>
 
 These little apps are unpolished and breakable, and that's ok :relaxed:. Success was measured by the ability to focus on the intention while coding.<br><br>
