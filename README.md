@@ -2,7 +2,7 @@
 Born from the [Florida Entrepreneur Club's](https://www.flent.club/) 10x10 writing challenge, for 10 days straight I built small apps that focused my mind on a specific emotion/characteristic in order to experiment with using code as a form of meditation.<br>
 
 These little apps are unpolished and breakable, and that's ok :relaxed:. Success was measured by the ability to focus on the intention while coding.<br><br>
-If you'd like to understand more check out this talk I gave at [FloridaJS](https://floridajs.com/) explaining the project: https://www.youtube.com/watch?v=eMDl04DL6Tw
+If you'd like to understand more check out this talk I gave at [CascadiaJS](https://2021.cascadiajs.com/) explaining the project: https://www.youtube.com/watch?v=Ltt5mTWUTzU
 
 | Collection                           | :page_facing_up:                                                                                | :iphone:                                                                  | :space_invader:                                                                     |
 |----------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|
